@@ -1,3 +1,5 @@
+![Alt text](http://i1271.photobucket.com/albums/jj622/frederickchoe/screencap_zpsgdrlpzsz.jpg "User Dashboard")
+
 ###################
 What is CodeIgniter
 ###################
